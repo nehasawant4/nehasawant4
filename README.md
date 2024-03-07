@@ -8,6 +8,14 @@
 
 - ⚡ Fun fact: I'm a crazy cat lover! 🐈‍⬛ I love organizing & cleaning stuff! I love art! 🎨
 
+### Connect with me:
+<p>
+    <a target="_blank" href="mailto:nsawant@scu.edu"><img align="left" alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
+    <a href="https://linkedin.com/in/nehasawant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehasawant4" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/nehasawant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehasawant4" height="30" width="40" /></a>
+    <a href="https://instagram.com/art_birt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_birt" height="30" width="40" /></a>
+</p>
+
 ### Languages and Tools:
 <p>
 <table>
@@ -57,12 +65,4 @@
         <td><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></td>
     </tr>
 </table>
-</p>
-
-### Connect with me:
-<p>
-    <a target="_blank" href="mailto:nsawant@scu.edu"><img align="left" alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
-    <a href="https://linkedin.com/in/nehasawant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehasawant4" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/nehasawant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehasawant4" height="30" width="40" /></a>
-    <a href="https://instagram.com/art_birt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_birt" height="30" width="40" /></a>
 </p>

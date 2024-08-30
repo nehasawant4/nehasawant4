@@ -2,7 +2,9 @@
 
 - 💻 A passionate software developer with 3 years of experience at Siemens and Persistent Systems
 
-- 📚 Currently pursuing Masters in Computer Science at Santa Clara University, CA, USA
+- 👩🏻‍💻 Currently interning at F5, Inc (San Jose, CA, USA)
+  
+- 📚 Pursuing Masters in Computer Science at Santa Clara University, CA, USA 
 
 - 📫 How to reach me: **nsawant@scu.edu**
 

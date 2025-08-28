@@ -1,12 +1,12 @@
 ### Hello, I'm Neha! 🐾
 
-- 💻 A passionate software developer with 3 years of experience at Siemens and Persistent Systems
+- 💻 A passionate software developer with 3 years of experience from F5 Networks, Siemens, and Persistent Systems
 
-- 👩🏻‍💻 Currently interning at F5, Inc (San Jose, CA, USA)
+- 👩🏻‍💻 Actively looking for SDE roles
   
-- 📚 Pursuing Masters in Computer Science at Santa Clara University, CA, USA 
+- 📚 Graduated with a Master's in Computer Science from Santa Clara University, CA
 
-- 📫 How to reach me: **nsawant@scu.edu**
+- 📫 How to reach me: **nehasawant4@gmail.com**
 
 - ⚡ Fun fact: I'm a crazy cat lover! 🐈‍⬛ I love organizing & cleaning stuff! I love art! 🎨
 
